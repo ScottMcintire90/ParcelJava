@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParcelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-04-25T17:27:32" hostname="epicodus-42.local" time="0.001">
+  <properties/>
+  <testcase name="newParcel_instantiatesCorrectly" classname="ParcelTest" time="0.0"/>
+  <testcase name="getShipCost_getShippingCost_13" classname="ParcelTest" time="0.0"/>
+  <testcase name="getVolume_getVolumeofParcel_24" classname="ParcelTest" time="0.0"/>
+  <testcase name="getLength_getLengthofParcel_2" classname="ParcelTest" time="0.0"/>
+  <testcase name="getHeight_getHeightofParcel_4" classname="ParcelTest" time="0.0"/>
+  <testcase name="getWidth_getWidthofParcel_3" classname="ParcelTest" time="0.0"/>
+  <testcase name="getWeight_getWeightofParce_10" classname="ParcelTest" time="0.0"/>
+  <testcase name="getDistance_getDistanceofShipment_100" classname="ParcelTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
